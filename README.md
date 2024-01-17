@@ -8,7 +8,7 @@ This repository contains three project reports.
    Mixer, and a Low-Pass Filter, enabling effective conversion of high-frequency signals to lower intermediate frequencies. This process minimizes noise in the output, enhancing communication quality. The project also explores practical
    challenges and optimizations in the circuit design, demonstrating its application in wireless receivers and signal processing.
 
-2) Linear Algebra - Leveraging Linear Algebra and Machine Learning in Investment Analysis. Semester 2, UG1, IIIT-H
+2) Linear Algebra - Leveraging Linear Algebra and Machine Learning in Investment Analysis. Semester 2, UG1, IIIT-H (includes a report called LA.pdf, and the ipynb file called LAproj_financial_forecasting.ipynb
    
    This project applied linear algebra and rudimentary machine learning techniques to enhance investment strategy analysis. Using Python, it focused on Mean-Variance Optimization and matrix operations, including multiplication and inversion,
    to evaluate financial models. The project drew on key studies like "Risk-Based Portfolios with Large Dynamic Covariance Matrices" and "Stock Price Prediction Using Regression Analysis" for methodological insights. The primary goals were
